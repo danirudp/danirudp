@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Daniru Perera</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka.</h3>
 
-- 🧑‍🎓 I’m currently studying SE @ **University of Bedfordshire**
+- 🧑‍🎓 Software engineering undergraduate @**University of Bedfordshire**
 
-- 🌱 I’m currently learning **ReactJS & ExpressJS**
+- 🌱 Currently learning **ReactJS & ExpressJS**
 
-- 📫 How to reach me **danirudp@gmail.com**
+- 📫 To reach me **danirudp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
