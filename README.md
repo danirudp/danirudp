@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniru Perera</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka.</h3>
 
-- 🧑‍🎓 SE undergraduate @ **University of Bedfordshire**
+- 🧑‍🎓 SE undergraduate @**University of Bedfordshire**
 
 - 🌱 Currently learning **ReactJS & ExpressJS**
 
