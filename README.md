@@ -3,7 +3,7 @@
 
 - 🧑‍🎓 Software engineering undergraduate @**University of Bedfordshire**
 
-- 🌱 Currently learning **ReactJS & ExpressJS**
+- 🌱 Currently learning **ReactJS**
 
 - 📫 To reach me **danirudp@gmail.com**
 
@@ -11,8 +11,6 @@
 <p align="left">
 <a href="https://twitter.com/daniru_dp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="daniru_dp" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/daniru perera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniru perera" height="30" width="40" /></a>
-<a href="https://fb.com/daniru.dp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="daniru.dp" height="30" width="40" /></a>
-<a href="https://instagram.com/daniru_dp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daniru_dp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
