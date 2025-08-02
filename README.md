@@ -47,15 +47,6 @@ Focused on modern web development using JavaScript, React, and Tailwind CSS. <br
   <a href="https://redux-toolkit.js.org/" target="_blank">
     <img src="https://redux-toolkit.js.org/img/redux.svg" alt="redux-toolkit" width="40" height="40"/>
   </a>
-  <a href="https://threejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original-wordmark.svg" alt="threejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.framer.com/motion/" target="_blank">
-    <img src="https://seeklogo.com/images/F/framer-motion-logo-DA1E33CAA1-seeklogo.com.png" alt="framermotion" width="40" height="40"/>
-  </a>
-  <a href="https://greensock.com/gsap/" target="_blank">
-    <img src="https://raw.githubusercontent.com/gsap-brand/GSAP-logos/master/PNG/GSAP-Green.png" alt="gsap" width="40" height="40"/>
-  </a>
   <a href="https://ui.shadcn.com/" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="shadcn" width="40" height="40"/>
   </a>
@@ -67,15 +58,6 @@ Focused on modern web development using JavaScript, React, and Tailwind CSS. <br
   </a>
   <a href="https://supabase.com/" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" alt="supabase" width="40" height="40"/>
-  </a>
-  <a href="https://stripe.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/stripe/stripe-media/master/logo.svg" alt="stripe" width="40" height="40"/>
-  </a>
-  <a href="https://oauth.net/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/6471485?s=200&v=4" alt="oauth" width="40" height="40"/>
-  </a>
-  <a href="https://jwt.io/" target="_blank">
-    <img src="https://jwt.io/img/pic_logo.svg" alt="jwt" width="40" height="40"/>
   </a>
 </p>
 
