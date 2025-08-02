@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Daniru Perera</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka.</h3>
 
-💻 Frontend Developer | React.js & JavaScript Specialist
-Crafting responsive, performant UIs with clean, scalable code.
-Focused on modern web development using JavaScript, React, and Tailwind CSS.
+💻 Frontend Developer | React.js & JavaScript Specialist <br>
+Crafting responsive, performant UIs with clean, scalable code. <br>
+Focused on modern web development using JavaScript, React, and Tailwind CSS. <br>
 
-🛠️ Tech Stack: HTML, CSS, JavaScript, React.js, Tailwind CSS, Git
-📦 Services: Frontend development, UI implementation, Web optimization
-📍 Engineering Student | Always learning, building, and improving
+🛠️ Tech Stack: HTML, CSS, JavaScript, React.js, Tailwind CSS, Git <br>
+📦 Services: Frontend development, UI implementation, Web optimization <br>
+📍 Engineering Student | Always learning, building, and improving <br>
 
 
 <h3 align="left">Connect with me:</h3>
