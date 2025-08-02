@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Daniru Perera</h1>
-<h3 align="left">A passionate frontend developer from Sri Lanka.</h3>
+<h1 align="center">Hi 👋, I'm Daniru Perera</h1>
+<h3 align="center">A passionate frontend developer from Sri Lanka.</h3>
 
 Frontend Developer | React.js & JavaScript Specialist <br>
 Crafting responsive, performant UIs with clean, scalable code. <br>
