@@ -1,23 +1,23 @@
-<h1 align="center">Hi 👋, I'm Daniru Perera</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka.</h3>
+<h1 align="left">Hi 👋, I'm Daniru Perera</h1>
+<h3 align="left">A passionate frontend developer from Sri Lanka.</h3>
 
-<h6 aligh="center">Frontend Developer | React.js & JavaScript Specialist <br>
+Frontend Developer | React.js & JavaScript Specialist <br>
 Crafting responsive, performant UIs with clean, scalable code. <br>
 Focused on modern web development using JavaScript, React, and Tailwind CSS. <br>
 
 🛠️ Tech Stack: HTML, CSS, JavaScript, React.js, Tailwind CSS, Git <br>
 📦 Services: Frontend development, UI implementation, Web optimization <br>
-📍 Engineering Student | Always learning, building, and improving <br> </h6>
+📍 Engineering Student | Always learning, building, and improving <br>
 
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://linkedin.com/in/daniru perera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniru perera" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
