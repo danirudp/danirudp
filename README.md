@@ -7,11 +7,11 @@
 
 **Frontend Developer | React.js & JavaScript Specialist**
 
-- 🔧 Crafting responsive, performant UIs with clean, scalable code  
-- 🧠 Focused on modern web development using **React**, **JavaScript**, and **Tailwind CSS**  
-- 🎓 Engineering student — always learning, building, and improving  
-- 📦 Offering: Frontend development, UI implementation, web optimization  
-
+🔧 Engineering high-performance, scalable, and maintainable user interfaces  
+🧩 Building clean, component-driven architecture with modern best practices  
+⚛️ Specialized in JavaScript, React.js, TypeScript, and Tailwind CSS  
+📦 Services: Frontend development, UI engineering, performance optimization  
+ 
 ---
 
 ### 🛠️ Tech Stack
