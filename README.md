@@ -15,7 +15,7 @@
   </p>
 
   <p>
-    I prioritize 🌐 component-driven architectures, ⚡ high-performance rendering, 🎨 clean UI/UX following modern design systems, 🧩 scalable folder structures, maintainable code, and 🚀 continuous improvement to deliver production-ready solutions.
+    I prioritize 🌐 component-driven architectures, ⚡ high-performance rendering, 🎨 clean UI/UX following modern design systems, 🧩 scalable folder structures, and maintainable code.
   </p>
 
   <p>
