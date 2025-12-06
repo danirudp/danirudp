@@ -38,7 +38,6 @@
     <img src="https://skillicons.dev/icons?i=js" />
     <img src="https://skillicons.dev/icons?i=ts" />
     <img src="https://skillicons.dev/icons?i=react" />
-   <img src="https://skillicons.dev/icons?i=zustand" />
     <img src="https://skillicons.dev/icons?i=nextjs" />
     <img src="https://skillicons.dev/icons?i=tailwind" />
     <img src="https://skillicons.dev/icons?i=mui" />
@@ -67,7 +66,7 @@
 
 <div align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:20px;">
   <h3> 📊 GitHub Analytics </h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danirudp&layout=compact&theme=dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danirudp&layout=compact&theme=dark&hide_border=true&langs_count=6&v=1" height="160" />
 
 
 
