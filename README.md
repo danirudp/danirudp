@@ -66,7 +66,9 @@
 
 <div align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:20px;">
   <h3> 📊 GitHub Analytics </h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danirudp&layout=compact&theme=dark&hide_border=true&langs_count=6&v=1" height="160" />
+  <p align="center">
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Ddanirudp%26theme%3Ddarkhub%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D4" alt="GitHub Trophies" />
+</p>
 
 
 
