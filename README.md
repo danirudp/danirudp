@@ -19,7 +19,7 @@
   </p>
 
   <p>
-    Actively advancing in end-to-end product engineering to design and deliver robust, scalable, and production-ready solutions.
+    Actively advancing in end-to-end product engineering & system design to deliver robust, scalable, and production-ready solutions.
   </p>
 
 </div>
