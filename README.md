@@ -1,29 +1,20 @@
-<h1 align="center" style="font-weight:700;">Hi, I'm <span style="color:#4BA3F2;">Daniru Perera</span> 👋</h1>
-<h3 align="center">A Front-End Engineer building clean, scalable, and future-ready digital experiences</h3>
+<h1 align="center" style="font-weight:700;">Hi, I'm <span style="color:#4BA3F2;">Daniru Perera</span> <img src="https://media.giphy.com/media/hvRJCLFzcuMiGaPsTO/giphy.gif" width="30px"/></h1>
+<h3 align="center">Front-End Product Engineer | Next.js & Performance Specialist</h3>
 
-## 
+<br/>
 
 <div align="center">
 
- <div align="center">
-
-  <h3>👨‍💻 About Me</h3>
-
-  <p>
-    I'm a Front-End Engineer focused on <strong>clean architecture</strong>, <strong>performance</strong>, and <strong>pixel-perfect interfaces</strong>.  
-    I build applications that are fast, modern, and engineered for real-world scalability.
+  <p align="center" style="max-width: 600px;">
+    <strong>I don't just build interfaces; I engineer resilient web systems.</strong>
+    <br/><br/>
+    I bridge the gap between complex backend logic and pixel-perfect UI. My focus is on the <strong>"Invisible Front-End"</strong>—handling optimistic UI updates, server-side performance, and race conditions to build applications that don't just look good, but feel instant.
   </p>
 
-  <p>
-    I prioritize 🌐 component-driven architectures, ⚡ high-performance rendering, 🎨 clean UI/UX following modern design systems, 🧩 scalable folder structures, and maintainable code.
+  <p align="center">
+     🚀 <strong>Core Focus:</strong> Next.js Ecosystem (App Router) • TypeScript • System Design<br>
+     ⚡ <strong>Philosophy:</strong> Performance-First Architecture & AI-Augmented Workflows
   </p>
-
-  <p>
-    Actively advancing in end-to-end product engineering & system design to deliver robust, scalable, and production-ready solutions.
-  </p>
-
-</div>
-
 
 </div>
 
