@@ -36,6 +36,8 @@
     <img src="https://skillicons.dev/icons?i=postgres" />
     <img src="https://skillicons.dev/icons?i=appwrite" />
     <img src="https://skillicons.dev/icons?i=firebase" />
+    <img src="https://skillicons.dev/icons?i=supabase" />
+    <img src="https://skillicons.dev/icons?i=prisma" />
     <img src="https://skillicons.dev/icons?i=git" />
     <img src="https://skillicons.dev/icons?i=github" />
     <img src="https://skillicons.dev/icons?i=figma" />
