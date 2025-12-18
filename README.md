@@ -6,7 +6,7 @@
 <div align="center">
 
   <p align="center" style="max-width: 600px;">
-    <strong>I don't just build interfaces; I engineer resilient web systems.</strong>
+    <strong>I don't just build interfaces, I engineer resilient web systems.</strong>
     <br/><br/>
     I bridge the gap between complex backend logic and pixel-perfect UI. My focus is on the <strong>"Invisible Front-End"</strong>—handling optimistic UI updates, server-side performance, and race conditions to build applications that don't just look good, but feel instant.
   </p>
