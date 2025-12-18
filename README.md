@@ -22,7 +22,7 @@
 
 
 <div align="center">
-  <h3>🛠️ Tech Stack</h3>
+  <h3> Tech Stack</h3>
   <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:12px;">
     <img src="https://skillicons.dev/icons?i=html" />
     <img src="https://skillicons.dev/icons?i=css" />
@@ -51,7 +51,7 @@
 ## 
 
 <div align="center">
-  <h3> 📦 Tooling & Workflow </h3>
+  <h3> Tooling & Workflow </h3>
   <img src="https://skillicons.dev/icons?i=vscode,bash,npm,yarn,pnpm,webpack,docker,nginx,bun" />
 </div>
 
