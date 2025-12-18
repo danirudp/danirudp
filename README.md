@@ -32,7 +32,7 @@
     <img src="https://skillicons.dev/icons?i=nextjs" />
     <img src="https://skillicons.dev/icons?i=tailwind" />
     <img src="https://skillicons.dev/icons?i=mui" />
-    <img src="https://skillicons.dev/icons?i=shadcnui" />
+    <img src="https://skillicons.dev/icons?i=radixui" />
     <img src="https://skillicons.dev/icons?i=mongodb" />
     <img src="https://skillicons.dev/icons?i=postgres" />
     <img src="https://skillicons.dev/icons?i=appwrite" />
