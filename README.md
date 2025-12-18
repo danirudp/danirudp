@@ -32,7 +32,6 @@
     <img src="https://skillicons.dev/icons?i=nextjs" />
     <img src="https://skillicons.dev/icons?i=tailwind" />
     <img src="https://skillicons.dev/icons?i=mui" />
-    <img src="https://skillicons.dev/icons?i=radixui" />
     <img src="https://skillicons.dev/icons?i=mongodb" />
     <img src="https://skillicons.dev/icons?i=postgres" />
     <img src="https://skillicons.dev/icons?i=appwrite" />
@@ -53,7 +52,7 @@
 
 <div align="center">
   <h3> 📦 Tooling & Workflow </h3>
-  <img src="https://skillicons.dev/icons?i=vscode,bash,npm,yarn,pnpm,webpack,docker,nginx" />
+  <img src="https://skillicons.dev/icons?i=vscode,bash,npm,yarn,pnpm,webpack,docker,nginx,bun" />
 </div>
 
 
