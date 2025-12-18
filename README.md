@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight:700;">Hi, I'm <span style="color:#4BA3F2;">Daniru Perera</span> <img src="https://media.giphy.com/media/hvRJCLFzcuMiGaPsTO/giphy.gif" width="30px"/></h1>
+<h1 align="center" style="font-weight:700;">Hi, I'm <span style="color:#4BA3F2;">Daniru Perera</span> </h1>
 <h3 align="center">Front-End Product Engineer | Next.js & Performance Specialist</h3>
 
 <br/>
@@ -12,8 +12,8 @@
   </p>
 
   <p align="center">
-     🚀 <strong>Core Focus:</strong> Next.js Ecosystem (App Router) • TypeScript • System Design<br>
-     ⚡ <strong>Philosophy:</strong> Performance-First Architecture & AI-Augmented Workflows
+     <strong>Core Focus:</strong> Next.js Ecosystem (App Router) • TypeScript • System Design<br>
+     <strong>Philosophy:</strong> Performance-First Architecture & AI-Augmented Workflows
   </p>
 
 </div>
