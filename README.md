@@ -1,21 +1,35 @@
-<h1 align="center" style="font-weight:700;">Hi, I'm <span style="color:#4BA3F2;">Daniru Perera</span> </h1>
-<h3 align="center">Front-End Product Engineer | Next.js & Performance Specialist</h3>
+<h1 align="center">Hi, I'm Daniru.</h1>
+<h3 align="center">Front-End Integration Specialist (React & Next.js)</h3>
+
+<br/>
+
+  <p align="center" style="max-width: 600px; font-size: 16px;">
+    I help founders and teams rescue their React and Next.js applications. If your UI isn't talking to your database, your authentication keeps failing, or your codebase has just become a tangled mess, I find the root cause and patch it cleanly. No sugar coating, no forced expensive rewrites. Just working software.
+  </p>
+
+</div>
 
 <br/>
 
 <div align="center">
-
-  <p align="center" style="max-width: 600px;">
-    <strong>I don't just build interfaces, I engineer resilient web systems.</strong>
-    <br/><br/>
-    I bridge the gap between complex backend logic and pixel-perfect UI. My focus is on the <strong>"Invisible Front-End"</strong>—handling optimistic UI updates, server-side performance, and race conditions to build applications that don't just look good, but feel instant.
+  <p><b>What I actually do day to day:</b></p>
+  <p align="center" style="max-width: 500px;">
+    🔌 Wiring complex UI to backends (Supabase, Postgres, NextAuth and etc)<br/>
+    🐛 Debugging messy React state and race conditions<br/>
+    ⚡ Fixing Next.js performance and rendering bottlenecks<br/>
+    🏥 Navigating massive, unfamiliar enterprise repositories (Active OpenMRS Contributor)
   </p>
+</div>
 
-  <p align="center">
-     <strong>Core Focus:</strong> Next.js Ecosystem (App Router) • TypeScript • System Design<br>
-     <strong>Philosophy:</strong> Performance-First Architecture & AI-Augmented Workflows
+<br/>
+
+<div align="center">
+  <p>
+    <strong>Currently accepting freelance contracts.</strong><br/><br/>
+    <a href="https://linkedin.com/in/daniru-perera">LinkedIn</a> &nbsp;•&nbsp; 
+    <a href="https://daniruperera.vercel.app/">Portfolio</a> &nbsp;•&nbsp; 
+    <a href="https://www.upwork.com/freelancers/~01fdb8ecdfac6205e7">Hire on Upwork</a>
   </p>
-
 </div>
 
 ## 
