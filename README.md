@@ -14,10 +14,10 @@
 <div align="center">
   <p><b>What I actually do day to day:</b></p>
   <p align="center" style="max-width: 500px;">
-    🔌 Wiring complex UI to backends (Supabase, Postgres, NextAuth and etc)<br/>
-    🐛 Debugging messy React state and race conditions<br/>
-    ⚡ Fixing Next.js performance and rendering bottlenecks<br/>
-    🏥 Navigating massive, unfamiliar enterprise repositories (Active OpenMRS Contributor)
+    • Wiring complex UI to backends (Supabase, Postgres, NextAuth and etc)<br/>
+    • Debugging messy React state and race conditions<br/>
+    • Fixing Next.js performance and rendering bottlenecks<br/>
+    • Navigating massive, unfamiliar enterprise repositories (Active OpenMRS Contributor)
   </p>
 </div>
 
